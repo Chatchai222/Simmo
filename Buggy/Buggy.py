@@ -23,3 +23,4 @@ class Buggy:
             self.rect.x += 1
 
 
+
