@@ -11,6 +11,8 @@ class Sensor:
 
         self.is_detect_line = False
 
+    def
+
 
 
 
